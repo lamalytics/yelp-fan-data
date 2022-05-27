@@ -364,7 +364,7 @@ ORDER BY Rating DESC;
 i. Difference 1: Total count of businesses between 'closed' and 'open' are vastly different in terms of number of businesses. Maybe reviews help a business stay open or yelp phases out closed businesses. 
 
          
-ii. Difference 2: The unique_amount of catergories are more diverse in open businesses than closed ones. Interesting to see that diversity may not play a role in the closing of business.
+ii. Difference 2: The unique_amount of catergories are more diverse in open businesses than closed ones. Interesting to see that diversity may play a role in the closing of business.
          
          
          
